@@ -1,7 +1,15 @@
 <style type="text/css" media="screen">
+
+/* Put the stlyes into the main css file */
 					
 .fb-like.fb_iframe_widget {
 	line-height: 1;
+}
+
+ul.social-buttons li {
+    list-style: none;
+    float: left;
+    padding: 0 15px 0 0;
 }
 						
 </style>
